@@ -1,0 +1,13 @@
+name: dash
+title: dash
+username:
+account: premier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2277943
+bundleId: 3129981
+url: https://premier.shinyapps.io/dash/
+when: 1589175169.66867
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bltper_1x1.txt|dashCode.R|Exposures_1x1.txt|fltper_1x1.txt|mltper_1x1.txt|Mx_1x1.txt
